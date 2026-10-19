@@ -1,0 +1,19 @@
+README.md
+  s_ec024a9d890d05::t_2d642985c6513f 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "c78e9a9bea43eedb0ee33ca2dc392b9baefd4794",
+  "prompts": {},
+  "sessions": {
+    "s_ec024a9d890d05": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77d56632-cbf1-42f8-80ea-f86039a93beb",
+        "model": "unknown"
+      },
+      "human_author": "Nick Marden <nmarden@avvo.com>"
+    }
+  }
+}
