@@ -1,6 +1,6 @@
 # cite
 
-Lineage citation generation: segments in, grounded citations out.
+Lineage citation generation: sections in, grounded citations out.
 
 Part of [Lineage](https://github.com/line-age/controlplane). What this component takes in,
 what it puts out, and what it depends on are described in the controlplane's
